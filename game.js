@@ -1,4 +1,5 @@
-//HAN Memory
+// HAN Memory
+// Made by: Dilano Walda
 const section = document.querySelector('section');
 const playerScoreCounter = document.querySelector(".playerScoreCounter");
 const playerLivesCounter = document.querySelector(".playerLivesCounter");

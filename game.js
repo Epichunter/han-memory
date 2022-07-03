@@ -143,4 +143,5 @@ const restartGame = (text) => {
     playerLivesCounter.textContent = playerLives;
 }
 
+//Generate cards and start the game
 cardsGenerator();
